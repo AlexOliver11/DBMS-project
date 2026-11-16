@@ -1,0 +1,6 @@
+streamlit
+mysql-connector-python
+pandas
+PyPDF2
+sentence-transformers
+python-dotenv
